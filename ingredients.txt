@@ -1,6 +1,6 @@
-dfssf
+
 onion
 avocado
-salt
+0.5 salt
 pepper
 
